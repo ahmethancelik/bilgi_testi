@@ -1,6 +1,8 @@
 # bilgi_testi
 
-A new Flutter project.
+Just created my first first repository 🥳🥳
+A basic quiz app.
+
 
 ## Getting Started
 
