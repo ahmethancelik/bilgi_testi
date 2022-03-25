@@ -1,6 +1,6 @@
 # bilgi_testi
 
-Just created my first first repository 🥳🥳
+Just created my very first repository 🥳🥳
 A basic quiz app.
 
 
